@@ -1,0 +1,8 @@
+*log
+*png
+*xls
+build_and_install.sh
+cusolverDnSgesvd
+hoge.sh
+line_profiler
+.fuse_hidden*
